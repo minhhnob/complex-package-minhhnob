@@ -1,6 +1,6 @@
 {
 	"name": "complex-package-minhhnob",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -90,6 +90,7 @@
 		"starknet-merkle-tree": "^1.0.1",
 		"swr": "^2.2.4",
 		"typescript": "^5.3.3",
-		"zustand": "^4.4.7"
+		"zustand": "^4.4.7",
+		"complex-package-minhhnob": "1.0.0"
 	}
 }
