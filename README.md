@@ -51,3 +51,7 @@ console.log(factorial); // Output: 120</code></pre>
 <h2>License</h2>
 
 <p>This project is licensed under the MIT License - see the <a href="./LICENSE">LICENSE</a> file for details.</p>
+
+<h2>Contributing</h2>
+
+<p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.</p>
