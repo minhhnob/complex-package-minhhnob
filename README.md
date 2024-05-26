@@ -1,10 +1,3 @@
-# Fibonacci and Factorial Calculator
+<h1>sum-library</h1>
 
-This project provides functions to calculate Fibonacci sequence and factorial.
-
-## Installation
-
-You can install this package via npm:
-
-```bash
-npm install fibonacci-factorial-calculator
+<p>A versatile library to sum integers, floats, and arrays of numbers. This library provides multiple functions to handle various summation needs.</p>
