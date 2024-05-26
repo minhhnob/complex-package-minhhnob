@@ -15,3 +15,9 @@
 <p>To use the <code>fibonacci-factorial-calculator</code> in your project, you need to import it first:</p>
 
 <pre><code>const calculator = require('fibonacci-factorial-calculator');</code></pre>
+
+<h3>Functions</h3>
+
+<h4><code>calculateFibonacci(n)</code></h4>
+
+<p>This function calculates the Fibonacci sequence up to the given number <code>n</code>.</p>
