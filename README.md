@@ -6,4 +6,4 @@
 
 <p>You can install this package via npm:</p>
 
-<pre><code>npm install fibonacci-factorial-calculator</code></pre>
+<pre><code>npm install complex-package-minhhnob</code></pre>
