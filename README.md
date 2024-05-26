@@ -1,3 +1,3 @@
-<h1>sum-library</h1>
+<h1>Fibonacci and Factorial Calculator</h1>
 
-<p>A versatile library to sum integers, floats, and arrays of numbers. This library provides multiple functions to handle various summation needs.</p>
+<p>This project provides functions to calculate Fibonacci sequence and factorial.</p>
