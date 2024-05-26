@@ -42,3 +42,8 @@ console.log(fibonacciSequence); // Output: [0, 1, 1, 2, 3, 5]</code></pre>
 <ul>
   <li><code>n</code>: The number for which the factorial should be calculated.</li>
 </ul>
+
+<p>Example:</p>
+
+<pre><code>const factorial = calculator.calculateFactorial(5);
+console.log(factorial); // Output: 120</code></pre>
