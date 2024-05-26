@@ -55,3 +55,7 @@ console.log(factorial); // Output: 120</code></pre>
 <h2>Contributing</h2>
 
 <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.</p>
+
+<h2>Acknowledgments</h2>
+
+<p>Thank you to all the contributors and open-source community for their support and dedication.</p>
