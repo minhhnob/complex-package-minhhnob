@@ -47,3 +47,7 @@ console.log(fibonacciSequence); // Output: [0, 1, 1, 2, 3, 5]</code></pre>
 
 <pre><code>const factorial = calculator.calculateFactorial(5);
 console.log(factorial); // Output: 120</code></pre>
+
+<h2>License</h2>
+
+<p>This project is licensed under the MIT License - see the <a href="./LICENSE">LICENSE</a> file for details.</p>
