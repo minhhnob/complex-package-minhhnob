@@ -36,3 +36,9 @@ console.log(fibonacciSequence); // Output: [0, 1, 1, 2, 3, 5]</code></pre>
 <h4><code>calculateFactorial(n)</code></h4>
 
 <p>This function calculates the factorial of the given number <code>n</code>.</p>
+
+<h5>Parameters:</h5>
+
+<ul>
+  <li><code>n</code>: The number for which the factorial should be calculated.</li>
+</ul>
